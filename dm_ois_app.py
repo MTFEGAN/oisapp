@@ -118,7 +118,7 @@ def main():
     st.title("Interactive Multi-Country OIS Curve Modeling")
 
     # Path to Excel file
-    excel_path = r"C:\Users\MFegan\OneDrive - AustralianSuper PTY LTD\Active\5. Python\Products\Internal\OIS App\country_ois_data.xlsx"
+    excel_path = r"country_ois_data.xlsx"
 
     # Attempt to read default values from Excel
     try:
